@@ -43,7 +43,7 @@ basically has a data model.
 
 **A few things I've built:**
 
-- 🏠 [Skye App](https://github.com/carrieskye/skye-app) — personal home management system (Angular · NestJS · Prisma)
+- 🏠 **Skye App** — personal home management system (Angular · NestJS · Prisma)
 - 📅 [Timing Parser & Digital Diary](https://github.com/carrieskye/calendar) — parses Timing exports into Google Calendar, integrated with Trakt.tv
 - 🟩 [Wordle Solver](https://github.com/carrieskye/wordle) — information theory + letter frequency, because of course
   
