@@ -1,4 +1,4 @@
-### Hi, I'm Carrie 👋
+### Hi, I'm Carrie 🙋🏻‍♀️
 
 I'm a Senior Data Engineer who thinks in pipelines — if something
 can be structured, modelled, or automated, I'm already halfway
@@ -20,6 +20,14 @@ basically has a data model.
 
 ---
 
+**Currently:**
+
+- 🔭 Working on data pipelines and NLP systems at Ship Shape
+- 🌱 Staying on top of the agentic tooling landscape
+- 🏠 Extending the Skye App (the fridge data model grows)
+
+---
+
 **What I work with:**
 
 [![Python](https://img.shields.io/badge/-Python-000?logo=python)](https://python.org)
@@ -35,11 +43,12 @@ basically has a data model.
 
 **A few things I've built:**
 
-- 🔬 [Interpolated SOM Neural Networks for Anatomical Joint Constraint Modelling](https://pure.cardiffmet.ac.uk/en/publications/interpolated-som-neural-networks-for-anatomical-joint-constraint-/) — published in IJSSST, May 2023
-- 📊 [Using Machine Learning to Fill Gaps in Chinese AI Market Data](https://cset.georgetown.edu/publication/using-machine-learning-to-fill-gaps-in-chinese-ai-market-data/) — CSET Data Brief, Georgetown University, Feb 2021
 - 🏠 [Skye App](https://github.com/carrieskye/skye-app) — personal home management system (Angular · NestJS · Prisma)
 - 📅 [Timing Parser & Digital Diary](https://github.com/carrieskye/calendar) — parses Timing exports into Google Calendar, integrated with Trakt.tv
 - 🟩 [Wordle Solver](https://github.com/carrieskye/wordle) — information theory + letter frequency, because of course
+  
+- 🔬 [Interpolated SOM Neural Networks for Anatomical Joint Constraint Modelling](https://pure.cardiffmet.ac.uk/en/publications/interpolated-som-neural-networks-for-anatomical-joint-constraint-/) — published in IJSSST, May 2023
+- 📊 [Using Machine Learning to Fill Gaps in Chinese AI Market Data](https://cset.georgetown.edu/publication/using-machine-learning-to-fill-gaps-in-chinese-ai-market-data/) — CSET Data Brief, Georgetown University, Feb 2021
 
 ---
 
